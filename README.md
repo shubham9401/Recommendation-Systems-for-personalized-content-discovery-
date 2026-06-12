@@ -1,4 +1,4 @@
-# Shubham_project: Netflix Recommendation System
+# Netflix Recommendation System
 
 ## Problem Description
 This project implements a recommendation system utilizing the Netflix Prize Dataset. 
